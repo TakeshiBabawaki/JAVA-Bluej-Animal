@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=welcomeMessage
+comment0.target=Animals(java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ the\ class\ Animals\n\ Process\ an\ external\ method\ call\ with\ the\ Welcome\ class\n
+comment1.params=
+comment1.target=void\ populateNames()
+comment1.text=\n\ method\ to\ insert\ in\ order\ 4\ animal\ names\ in\ the\ array\n
+comment2.params=
+comment2.target=void\ printAnimals()
+numComments=3
